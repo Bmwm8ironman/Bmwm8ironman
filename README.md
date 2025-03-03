@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web page development 
 - 📫 How to reach me on my weboage ghjklmn.my.canva.site/sg
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have a crush
 - 
 
 <!---
