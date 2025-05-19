@@ -2,7 +2,7 @@
 - 👀 I’m interested in upgrading my self
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web page development 
-- 📫 How to reach me on my weboage ghjklmn.my.canva.site/sg
+- 📫 How to reach me on my webpage ghjklmn.my.canva.site/sg
 - 
 
 <!---
